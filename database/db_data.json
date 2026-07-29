@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "usr_g_1780681251433",
+      "name": "Samiuddin Ahmed",
+      "email": "samiuddin2k5@gmail.com",
+      "passwordHash": "oauth_generated",
+      "isVerified": true
+    },
+    {
+      "id": "usr_1780952822246_oo36g",
+      "name": "sami",
+      "email": "wa@gmail.com",
+      "passwordHash": "sami1234",
+      "isVerified": true
+    }
+  ],
+  "cases": [],
+  "config": {}
+}

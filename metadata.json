@@ -1,0 +1,6 @@
+{
+  "name": "SwiftRescue",
+  "description": "Next-Gen Real-Time Life Saving Emergency Platform containing AI-guided assistant, live-tracking canvas overlay, hospital bed management, and a complete analytics dashboard.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
